@@ -1,5 +1,5 @@
 {
-  "personal_records": [
+  "personalRecords": [
     {
       "id": 1,
       "title": "Longest Run",
@@ -8,7 +8,7 @@
       "elevation": "",
       "unit": "",
       "image": "longest_run.png",
-      "is_completed": true
+      "isCompleted": true
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "elevation": 2095,
       "unit": "ft",
       "image": "highest_elevation.png",
-      "is_completed": true
+      "isCompleted": true
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "elevation": "",
       "unit": "",
       "image": "fastest_5k.png",
-      "is_completed": true
+      "isCompleted": true
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "elevation": "",
       "unit": "",
       "image": "fastest_10k.png",
-      "is_completed": true
+      "isCompleted": true
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "elevation": "",
       "unit": "",
       "image": "fastest_half_marathon.png",
-      "is_completed": true
+      "isCompleted": true
     },
     {
       "id": 6,
@@ -58,10 +58,10 @@
       "elevation": "",
       "unit": "",
       "image": "fastest_marathon.png",
-      "is_completed": false
+      "isCompleted": false
     }
   ],
-  "virtual_races": [
+  "virtualRaces": [
     {
       "id": 1,
       "title": "Virtual Half Marathon",
