@@ -2,7 +2,7 @@
   "virtualRaces": [
     {
       "id": 1,
-      "title": "Virtual Half Marathon",
+      "title": "Virtual Half Marathon Race",
       "time": "00:00",
       "image": "virtual_half_marathon_race.png"
     },
@@ -32,7 +32,7 @@
     },
     {
       "id": 6,
-      "title": "Virtual Half Marathon",
+      "title": "Virtual 5K Race",
       "time": "23:07",
       "image": "virtual_5k_race.png"
     }
