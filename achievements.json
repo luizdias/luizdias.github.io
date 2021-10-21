@@ -1,102 +1,104 @@
 {
-  "personalRecords": [
-    {
-      "id": 1,
-      "title": "Longest Run",
-      "type": "distance",
-      "time": "00:00",
-      "elevation": "",
-      "unit": "",
-      "image": "longest_run.png",
-      "isCompleted": true
-    },
-    {
-      "id": 2,
-      "title": "Highest Elevation",
-      "type": "elevation",
-      "time": "",
-      "elevation": 2095,
-      "unit": "ft",
-      "image": "highest_elevation.png",
-      "isCompleted": true
-    },
-    {
-      "id": 3,
-      "title": "Fastest 5K",
-      "type": "run",
-      "time": "00:00",
-      "elevation": "",
-      "unit": "",
-      "image": "fastest_5k.png",
-      "isCompleted": true
-    },
-    {
-      "id": 4,
-      "title": "10K",
-      "type": "run",
-      "time": "00:00:00",
-      "elevation": "",
-      "unit": "",
-      "image": "fastest_10k.png",
-      "isCompleted": true
-    },
-    {
-      "id": 5,
-      "title": "Half Marathon",
-      "type": "run",
-      "time": "00:00",
-      "elevation": "",
-      "unit": "",
-      "image": "fastest_half_marathon.png",
-      "isCompleted": true
-    },
-    {
-      "id": 6,
-      "title": "Marathon",
-      "type": "run",
-      "time": "00:00",
-      "elevation": "",
-      "unit": "",
-      "image": "fastest_marathon.png",
-      "isCompleted": false
-    }
-  ],
-  "virtualRaces": [
-    {
-      "id": 1,
-      "title": "Virtual Half Marathon",
-      "time": "00:00",
-      "image": "virtual_half_marathon_race.png"
-    },
-    {
-      "id": 2,
-      "title": "Tokyo-Hakone Ekiden 2020",
-      "time": "00:00:00",
-      "image": "tokyo_kakone_ekiden.png"
-    },
-    {
-      "id": 3,
-      "title": "Virtual 10K Race",
-      "time": "00:00:00",
-      "image": "virtual_10k_race.png"
-    },
-    {
-      "id": 4,
-      "title": "Hakone Ekiden",
-      "time": "00:00:00",
-      "image": "hakone_ekiden.png"
-    },
-    {
-      "id": 5,
-      "title": "Mizuno Singapore Ekiden 2015",
-      "time": "00:00:00",
-      "image": "mizuno_singapore_ekiden.png"
-    },
-    {
-      "id": 6,
-      "title": "Virtual Half Marathon",
-      "time": "23:07",
-      "image": "virtual_5k_race.png"
-    }
-  ]
+  "achievements": {
+    "virtual_races": [
+      {
+        "id": 1,
+        "title": "Virtual Half Marathon",
+        "time": "00:00",
+        "image": "virtual_half_marathon_race.png"
+      },
+      {
+        "id": 2,
+        "title": "Tokyo-Hakone Ekiden 2020",
+        "time": "00:00:00",
+        "image": "tokyo_kakone_ekiden.png"
+      },
+      {
+        "id": 3,
+        "title": "Virtual 10K Race",
+        "time": "00:00:00",
+        "image": "virtual_10k_race.png"
+      },
+      {
+        "id": 4,
+        "title": "Hakone Ekiden",
+        "time": "00:00:00",
+        "image": "hakone_ekiden.png"
+      },
+      {
+        "id": 5,
+        "title": "Mizuno Singapore Ekiden 2015",
+        "time": "00:00:00",
+        "image": "mizuno_singapore_ekiden.png"
+      },
+      {
+        "id": 6,
+        "title": "Virtual Half Marathon",
+        "time": "23:07",
+        "image": "virtual_5k_race.png"
+      }
+    ],
+    "personal_records": [
+      {
+        "id": 1,
+        "title": "Longest Run",
+        "type": "distance",
+        "time": "00:00",
+        "elevation": "",
+        "unit": "",
+        "image": "longest_run.png",
+        "is_completed": true
+      },
+      {
+        "id": 2,
+        "title": "Highest Elevation",
+        "type": "elevation",
+        "time": "",
+        "elevation": 2095,
+        "unit": "ft",
+        "image": "highest_elevation.png",
+        "is_completed": true
+      },
+      {
+        "id": 3,
+        "title": "Fastest 5K",
+        "type": "run",
+        "time": "00:00",
+        "elevation": "",
+        "unit": "",
+        "image": "fastest_5k.png",
+        "is_completed": true
+      },
+      {
+        "id": 4,
+        "title": "10K",
+        "type": "run",
+        "time": "00:00:00",
+        "elevation": "",
+        "unit": "",
+        "image": "fastest_10k.png",
+        "is_completed": true
+      },
+      {
+        "id": 5,
+        "title": "Half Marathon",
+        "type": "run",
+        "time": "00:00",
+        "elevation": "",
+        "unit": "",
+        "image": "fastest_half_marathon.png",
+        "is_completed": true
+      },
+      {
+        "id": 6,
+        "title": "Marathon",
+        "type": "run",
+        "time": "00:00",
+        "elevation": "",
+        "unit": "",
+        "image": "fastest_marathon.png",
+        "is_completed": false
+      }
+    ]
+  }
 }
